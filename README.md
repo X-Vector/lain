@@ -100,10 +100,15 @@ Lain - Interactive Decombiler.
 ```
 
 ### TODO
-[ ] fix more bugs
-[ ] add comments 
-[ ] save to project
-[ ] create installer script
-[ ] design a GDB-Peda like pseudo source code debugging interface
+- [x] fix retdec missing function names
+- [x] fix retdec missing function arguments
+- [x] add rename
+- [x] add syntax highlighting
+- [ ] fix more bugs
+- [ ] add comments 
+- [ ] save to project
+- [ ] Compare code to assembly 
+- [ ] create installer script
+- [ ] design a GDB-Peda like pseudo source code debugging interface
 
 ### EOF
