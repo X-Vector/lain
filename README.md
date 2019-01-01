@@ -107,7 +107,7 @@ Lain - Interactive Decombiler.
 - [ ] fix more bugs
 - [ ] add comments 
 - [ ] save to project
-- [ ] Compare code to assembly 
+- [ ] merege code with assembly 
 - [ ] create installer script
 - [ ] design a GDB-Peda like pseudo source code debugging interface
 
