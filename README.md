@@ -104,8 +104,7 @@ Lain - Interactive Decombiler.
 - [x] fix retdec missing function arguments
 - [x] add rename
 - [x] add syntax highlighting
-- [ ] fix more bugs
-- [ ] add comments 
+- [ ] fix more bugs 
 - [ ] save to project
 - [ ] merege code with assembly 
 - [ ] create installer script
