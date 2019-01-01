@@ -69,7 +69,9 @@ Lain - Interactive Decombiler .
 ```
 
 ``` rename <var> || r <var> ```
+
 ``` rename globals <new_global_variables_name> || r globals <...> # Default is glob ``` 
+
 ``` rename locals <new_local_variables_name> || r local <...>     # Default is loc  ```
 
 ### This Project is under development.
