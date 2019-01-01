@@ -50,6 +50,7 @@ Lain - Interactive Decombiler .
 └ 
 ```
 ``` ? <value> ```
+```assembly
 [#] ? 0x2345
 ┌ 
 │ hex     0x2345
