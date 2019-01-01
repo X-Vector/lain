@@ -99,5 +99,11 @@ Lain - Interactive Decombiler.
 └ 
 ```
 
-### This Project is under development.
+### TODO
+[ ] fix more bugs
+[ ] add comments 
+[ ] save to project
+[ ] create installer script
+[ ] design a GDB-Peda like pseudo source code debugging interface
+
 ### EOF
