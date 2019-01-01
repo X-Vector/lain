@@ -1,12 +1,12 @@
 # lain
 Lain - Interactive Decombiler.
 
+![8a10f08a07fc97b392249973c5d184dca437c909_hq](https://user-images.githubusercontent.com/22657154/50573189-c1dc2480-0d9c-11e9-9101-d9b6db4655b8.gif)
+
 ## dependencies
 - radare2 [r2pipe]
 - retdec 
 - pygments
-
-![screenshot at 2019-01-01 07-38-17](https://user-images.githubusercontent.com/22657154/50572997-2b5a3400-0d99-11e9-919f-cb96450ea50c.png)
 
 ## Main features
 ``` info functions || i f ```
