@@ -80,5 +80,24 @@ Lain - Interactive Decombiler.
 
 ``` rename locals <new_local_variables_name> || r local <...>     # Default is loc  ```
 
+```python
+[#] r sub.strlen_616 test
+[#] r loc_5 input
+[#] r locals local_var
+[#] d main
+┌ 
+│ def main(a1):
+│     local_var_2 = 0 
+│     fcn.08048766(0)
+│     local_var_3 = local_var_2 + 0x18f7 ebx
+│     printf(local_var_2 + 364)
+│     printf(local_var_3 - 0x1772)
+│     local_var_5 = &local_var_6 
+│     scanf(local_var_3 - 0x1767, local_var_5)
+│     test(local_var_5)
+│     return 0
+└ 
+```
+
 ### This Project is under development.
 ### EOF
